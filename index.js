@@ -2,7 +2,7 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown.js');
 
-// questions for application user
+// question for application user
 const questions = [
     {
         type: 'input',
