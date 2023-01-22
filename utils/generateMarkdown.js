@@ -60,7 +60,7 @@ ${shot.screenshotDesc}
     }
 };
 
-// creates built with section
+// creates built section
 const createBuiltWith = builtWith =>{
     let allTechnologies = '';
 
