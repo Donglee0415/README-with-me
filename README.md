@@ -4,7 +4,7 @@
 ## Description
 A Node.js application that will help you generate a professional README.
             
-View the deployed page at [README Generator](https://donglee0415.github.io/readme-with-me/).
+View the deployed page at [README Generator](https://donglee0415.github.io/README-with-me/).
 ## Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -25,7 +25,7 @@ npm inquirer
 To use this application please install: npm inquirer 
     
 ### Screenshots
-![Here is  screenshot image of the application.](./dist/images/screenshot/png)
+![Here is  screenshot image of the application.](./dist/images/screenshot.png)
 Here is  screenshot image of the application.
 
 ## Built With
