@@ -44,7 +44,7 @@ This application is licensed under the MIT license.
 There are no guidelines for contributing at this time.
     
 ## Questions
-If you have any questions about the repo, please [open an issue](https://github.com/Donglee0415/readme-generator/issues) or contact me via email at dn.lee0415@gmail.com. You can find more of my work on my GitHub, [Donglee0415](https://github.com/Donglee0415/).
+If you have any questions about the repo, please [open an issue](https://github.com/Donglee0415/README-with-me/issues) or contact me via email at dn.lee0415@gmail.com. You can find more of my work on my GitHub, [Donglee0415](https://github.com/Donglee0415/).
     
 ## Credits
 * [UT Austin Boot Camp Starter code](git@github.com:coding-boot-camp/potential-enigma.git)
